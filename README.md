@@ -11,10 +11,11 @@ My name is Leonardson, and I'm a software developer, or at least I try <img alig
 - Working with:
     - PHP
     - JavaScript with a lot of jQuery
+    - React
     - Some Python
 
 - Studying:
+    - Tests
     - TypeScript
-    - React
     - Suffering to ReasonML and functional programming paradigm
     
