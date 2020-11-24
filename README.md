@@ -3,7 +3,7 @@
 My name is Leonardson, and I'm a software developer, or at least I try <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400">
 
 - 🏖 I'm from Imbituba, Santa Catarina, Brazil
-- 🏠 Currently working remotely for [Del Grande](https://www.delgrande.com.br/)
+- 🏠 Currently working remotely for [Sway](http://sway.com.br/)
 - 👩‍💻 Computer Science Student
 
 --- 
@@ -11,8 +11,7 @@ My name is Leonardson, and I'm a software developer, or at least I try <img alig
 - Working with:
     - PHP
     - JavaScript with a lot of jQuery
-    - React
-    - Some Python
+    - Magento
 
 - Studying:
     - Tests
