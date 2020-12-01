@@ -14,7 +14,6 @@ My name is Leonardson, and I'm a software developer, or at least I try <img alig
     - Magento
 
 - Studying:
+    - Magento
     - Tests
     - TypeScript
-    - Suffering to ReasonML and functional programming paradigm
-    
