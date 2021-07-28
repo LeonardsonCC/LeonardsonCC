@@ -5,17 +5,22 @@
 My name is Leonardson, and I'm a software developer, or at least I try <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400">
 
 - 🏖 I'm from Imbituba, Santa Catarina, Brazil
-- 🏠 Currently working for [Sway](http://sway.com.br/)
+- 🏠 Currently working for [Sway](https://sway.com.br/)
 - 👩‍💻 Computer Science Student
 
 --- 
 
 - Working with:
     - PHP
-    - JavaScript with a lot of jQuery
+    - JavaScript and a lot of jQuery
     - Magento
 
 - Studying:
-    - C (just to use suckless software)
-    - Flutter
+    - TypeScript
+    - Tests
+    - Blockchain
 
+- Side projects I'm working on:
+    - [Blockchain using TypeScript](https://github.com/LeonardsonCC/blockchain-with-nodejs);
+
+- Linux user, so my dotfiles are [here](https://github.com/LeonardsonCC/dotfiles);
