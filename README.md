@@ -14,6 +14,8 @@ My name is Leonardson, and I'm a software developer, or at least I try <img alig
     - PHP
     - JavaScript and a lot of jQuery
     - Magento
+    - React Native (Expo)
+    - Node.js Express
 
 - Studying:
     - TypeScript
