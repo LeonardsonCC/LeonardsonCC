@@ -26,3 +26,6 @@ My name is Leonardson, and I'm a software developer, or at least I try <img alig
     - [Blockchain using TypeScript](https://github.com/LeonardsonCC/blockchain-with-nodejs);
 
 - Linux user, so my dotfiles are [here](https://github.com/LeonardsonCC/dotfiles);
+
+![LeonardsonCC](https://github-readme-stats.vercel.app/api?username=LeonardsonCC&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardsonCC&theme=tokyonight&layout=compact)](https://github.com/LeonardsonCC)
