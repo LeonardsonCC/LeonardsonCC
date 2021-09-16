@@ -12,13 +12,11 @@ My name is Leonardson, and I'm a software developer, or at least I try <img alig
 
 - Working with:
     - PHP
-    - JavaScript and a lot of jQuery
-    - Magento
     - React Native (Expo)
+    - TypeScript
     - Node.js Express
 
 - Studying:
-    - TypeScript
     - Tests
     - Blockchain
 
