@@ -1,4 +1,4 @@
-# Hey nerds!
+# Hey!
 
 <img src="https://media3.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif?cid=ecf05e47i7lfcidjbkny1ys9ur9tdgii4z8y71ojqbu5qhdn&rid=giphy.gif&ct=s" width="80">
 
