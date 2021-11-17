@@ -5,7 +5,7 @@
 My name is Leonardson, and I'm a software developer, or at least I try <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400">
 
 - 🏖 I'm from Imbituba, Santa Catarina, Brazil
-- 🏠 Currently working for [Sway](https://sway.com.br/)
+- 🏠 Currently working for [Catho](https://www.catho.com.br/)
 - 👩‍💻 Computer Science Student
 
 --- 
