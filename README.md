@@ -8,20 +8,9 @@ My name is Leonardson, and I'm a software developer, or at least I try <img alig
 - 🏠 Currently working for [Catho](https://www.catho.com.br/)
 - 👩‍💻 Computer Science Student
 
---- 
-
-- Working with:
-    - PHP
-    - React Native (Expo)
-    - TypeScript
-    - Node.js Express
-
 - Studying:
-    - Tests
-    - Blockchain
-
-- Side projects I'm working on:
-    - [Blockchain using TypeScript](https://github.com/LeonardsonCC/blockchain-with-nodejs);
+    - Web3
+    - Go
 
 - Linux user, so my dotfiles are [here](https://github.com/LeonardsonCC/dotfiles);
 
